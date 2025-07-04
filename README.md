@@ -1,5 +1,4 @@
-# SheRise
-Women empowerment and safety project
+
 # 💜 SheRise – AI-Powered Women Empowerment & Safety App
 
 ![GitHub License](https://img.shields.io/github/license/asifa1510/sherise)

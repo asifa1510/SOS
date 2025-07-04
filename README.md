@@ -21,6 +21,7 @@ It allows a user to:
 - 📩 Emergency SMS Delivery
 - 🔐 Environment Variable Security
 
-<img src="https://github.com/user-attachments/assets/a613e8f3-8f58-485e-b795-91b68041d5f7" width="700"/>
+
+<img src="https://github.com/user-attachments/assets/5f524c2b-083d-4a07-9f9b-1e132221e5eb" width="500"/>
 <br>
 <img src="https://github.com/user-attachments/assets/84488fa0-2e10-4995-a154-a0d06cfa57b8" width="200"/>

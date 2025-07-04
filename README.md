@@ -18,11 +18,7 @@
 
 ---
 
-## 🚀 Live Demo
 
-🔗 [Try SheRise on Streamlit](https://sherise.streamlit.app) *(replace with real URL)*
-
----
 
 ## 🧠 Features Overview
 

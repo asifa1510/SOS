@@ -1,4 +1,4 @@
-# 💜 Emergency SOS Module – SheRise (Archived)
+#  Emergency SOS Module – SheRise (Archived)
 
 This is a standalone Emergency SOS web app module originally built for **SheRise** – a women’s safety platform.
 

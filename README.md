@@ -22,5 +22,5 @@ It allows a user to:
 - 🔐 Environment Variable Security
 
 
-![Emergency SOS UI](https://github.com/user-attachments/assets/84488fa0-2e10-4995-a154-a0d06cfa57b8)
-
+<img src="https://github.com/user-attachments/assets/84488fa0-2e10-4995-a154-a0d06cfa57b8" width="500"/>
+<img src="https://github.com/user-attachments/assets/a613e8f3-8f58-485e-b795-91b68041d5f7" width="500"/>

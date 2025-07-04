@@ -1,78 +1,26 @@
+# 💜 Emergency SOS Module – SheRise (Archived)
 
-# 💜 SheRise – AI-Powered Women Empowerment & Safety App
+This is a standalone Emergency SOS web app module originally built for **SheRise** – a women’s safety platform.
 
-![GitHub License](https://img.shields.io/github/license/asifa1510/sherise)
-![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-orange)
-![Status](https://img.shields.io/badge/status-beta-brightgreen)
+It allows a user to:
+- Click a panic button from a web interface
+- Share their **live GPS location**
+- Send an **SMS alert via Twilio** to a trusted contact
 
-**SheRise** is a full-featured safety, empowerment, and support platform built specifically for women. It combines **AI**, **real-time location tools**, **emergency systems**, and **community-driven safety features** — all in one deployable app.
+## ⚙️ Tech Stack
 
----
+- Streamlit (Frontend)
+- Flask (Backend)
+- Twilio (SMS API)
+- IP-based Location (via ipinfo.io)
 
-## 🎯 Project Goals
+## 📦 Features
 
-- Support women through AI-driven advice, resources, and motivation
-- Help them **stay safe, feel empowered, and access opportunities**
-- Provide **emergency tools** that are discreet and effective
-- Build a real-world, deployable app useful across countries and communities
-
----
+- 🔴 Panic Button
+- 🌍 Live Location Sharing
+- 📩 Emergency SMS Delivery
+- 🔐 Environment Variable Security
 
 
-
-## 🧠 Features Overview
-
-### 🛡️ 1. **Emergency SOS Features**
-
-| Feature | Description |
-|--------|-------------|
-| 🔴 **Panic Button** | One-tap alert to trusted contacts and emergency services with live GPS |
-| 📞 **Fake Call Generator** | Simulates an incoming call to escape dangerous or awkward situations |
-| 🤫 **Discreet Alert Mode** | Shake phone or use a secret tap gesture to trigger silent emergency alert |
-| 🎙️ **Audio/Video Recorder** | Records + saves evidence during emergencies (cloud backup optional) |
-
----
-
-### 🧰 2. **Safety & Protection Tools**
-
-| Feature | Description |
-|--------|-------------|
-| 📍 **Live Location Sharing** | Share real-time location with selected contacts securely |
-| 🛣️ **Safe Route Navigation** | AI-suggested safest path using crowd-sourced risk zones & lighting data |
-| 🥋 **Self-Defense Guide** | Quick tutorials and videos for real-life defense tactics |
-| ⚠️ **Hazard Alerts** | Get warnings when you're in or near a known high-risk zone |
-
----
-
-### 🤖 3. **AI Empowerment Tools**
-
-| Feature | Description |
-|--------|-------------|
-| 💬 **SheRise AI Assistant** | Ask anything about safety, rights, jobs, harassment, and motivation |
-| 🧠 **Legal Rights Chatbot** | Powered by LangChain + GPT to answer based on verified legal resources |
-| 🎓 **Opportunity Recommender** | Suggests jobs, schemes, and scholarships for women (filtered via GPT) |
-| 🌟 **Inspiration Hub** | Explore bios of powerful women auto-generated with GPT summaries |
-
----
-
-### 📚 4. **Resources & Community**
-
-| Feature | Description |
-|--------|-------------|
-| 📞 **Helplines & Support** | State-wise contact info for helplines, shelters, legal aid |
-| 🗺️ **Unsafe Location Map** | Crowd-sourced map showing user-reported unsafe areas |
-| 🧑‍🤝‍🧑 **Community Reporting** | Anonymous sharing of incidents and advice |
-| 🌐 **Multilingual Support** | Available in English, Hindi, Tamil, and Bengali *(coming soon)*
-
----
-
-## 🧪 Tech Stack
-
-| Layer | Tools |
-|------|-------|
-| Frontend | Streamlit · React.js *(optional)* · Flutter *(future mobile app)* |
-| AI / NLP | OpenAI GPT-3.5 · LangChain · NLTK · VectorDB |
-| Backend | Firebase (Auth, Firestore, Location DB) · Flask APIs |
-| Emergency Tools | Twilio API · Accelerometer triggers · MediaRecorder (JS) |
-| Maps | Leaflet.js · Mapbox · Geolocation API |
+   [image](https://github.com/user-attachments/assets/84488fa0-2e10-4995-a154-a0d06cfa57b8)
 

@@ -1,4 +1,4 @@
-#  Emergency SOS Module – SheRise (Archived)
+**Emergency SOS Module – SheRise (Archived)**
 
 This is a standalone Emergency SOS web app module originally built for **SheRise** – a women’s safety platform.
 
@@ -7,14 +7,14 @@ It allows a user to:
 - Share their **live GPS location**
 - Send an **SMS alert via Twilio** to a trusted contact
 
-## ⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 - Streamlit (Frontend)
 - Flask (Backend)
 - Twilio (SMS API)
 - IP-based Location (via ipinfo.io)
 
-## 📦 Features
+**📦 Features**
 
 - 🔴 Panic Button
 - 🌍 Live Location Sharing
